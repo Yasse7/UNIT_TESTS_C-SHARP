@@ -1,0 +1,14 @@
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\bin\Debug\net8.0\NetWorkUnity.exe
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\bin\Debug\net8.0\NetWorkUnity.deps.json
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\bin\Debug\net8.0\NetWorkUnity.runtimeconfig.json
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\bin\Debug\net8.0\NetWorkUnity.dll
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\bin\Debug\net8.0\NetWorkUnity.pdb
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.AssemblyInfoInputs.cache
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.AssemblyInfo.cs
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.csproj.CoreCompileInputs.cache
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.dll
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\refint\NetWorkUnity.dll
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.pdb
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\NetWorkUnity.genruntimeconfig.cache
+C:\Users\Yassir.JERRARI\source\repos\NetWorkUnity\NetWorkUnity\obj\Debug\net8.0\ref\NetWorkUnity.dll
